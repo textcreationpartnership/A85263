@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wandring bird's wings clipt: or, A reply to Benjamin Bird Catholick his pagan designs.</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85263</idno>
+            <idno type="STC">Wing F867A</idno>
+            <idno type="STC">ESTC R177047</idno>
+            <idno type="EEBO-CITATION">45789310</idno>
+            <idno type="OCLC">ocm 45789310</idno>
+            <idno type="VID">172619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172619)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wandring bird's wings clipt: or, A reply to Benjamin Bird Catholick his pagan designs.</title>
+                  <author>Field, John, 1652-1723.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: J. Feild [i.e. John Field].</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bird, Benjamin.</term>
+               <term>Society of Friends --  England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172619:1" rendition="simple:additions"/>
+            <head>THE <hi>Wandring Bird's Wings Clipt:</hi> Or, A REPLY to <hi>Benjamin Bird</hi> Catholick HIS PAGAN DESIGNS.</head>
+            <epigraph>
+               <q>As a Bird that wandereth from her Neſt, ſo is the Man that wandereth from his Place,</q>
+               <bibl>Prov. 27. 8.</bibl>
+               <q>As the Birds that are caught in the Snare, ſo are the Sons of Men ſ<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>d in an evil time, when it falleth ſuddenly upon them,</q>
+               <bibl>Eccleſ. 9. 12.</bibl>
+            </epigraph>
+            <p>THE Love I bear to the precious Truth, and the ſincere Profeſſors thereof; with the hearty Deſire I have, That all Men might come to the knowledge of the Truth, and be Saved.</p>
+            <p>Are ſtrong inducements unto me, when I have ſeen both it and the Profeſſors thereof miſrepreſented; to uſe my ſmall Endeavours to ſhew wherein.</p>
+            <p>And wipe off that Dirt they throw upon us, that we may ap<g ref="char:EOLhyphen"/>pear as we really are. And doubt not but all, that with an unprejudiced and Impartial mind, will like the Noble <hi>Bereans</hi>
+               <pb n="2" facs="tcp:172619:2"/> of Old ſearch the Holy Scriptures, and compare our Chriſtian Doctrines therewith, will find we do not hold any that's con<g ref="char:EOLhyphen"/>trary thereunto: Neither do we deſire any ſhould receive any Doctrine we hold, but what's agreeable to thoſe Holy Writ<g ref="char:EOLhyphen"/>ings, of which we do in Sincerity declare we have a very Ho<g ref="char:EOLhyphen"/>nourable Eſteem; and account the Writings of the Old and New Teſtament the beſt in all the World.</p>
+            <div type="part">
+               <head>And now to this Author's Pamphlet I Reply.</head>
+               <p n="1">I. I know no Quaker that hath <hi>any Pagan Deſigns, to draw People off from the Scriptures</hi> as <hi>B. Bird,</hi> that writes himſelf <hi>Ca<g ref="char:EOLhyphen"/>tholick,</hi> doth falſly affirm in his Title Page, and I charge it on him, as a falſe and groſs Slander, and let him<g ref="char:punc">▪</g> read <hi>Prov. 10. 18. What he is that uttereth that,</hi> and remember its ſaid, <hi>Pſal. 101. 5. That who ſo privily ſlanders his Neighbour, him will I cut off.</hi>
+               </p>
+               <p>But he goes on and adds,—<hi>To ſomething above them which is in every Man,</hi> &amp;c. What is this an Offence to Labour, that People may be gathered unto Chriſt, which is above the Scrip<g ref="char:EOLhyphen"/>tures, and to turn them from Satan's Power to God's, and his Spirit in their Hearts when it is not? For that end, that any ſhould ſlight or deſpiſe the Holy Scriptures, but by that which is above them, and by which the Holy Men wrote them, they might come rightly to underſtand and have the Comfort of them; and if this be<g ref="char:punc">▪</g> 
+                  <hi>Pagan,</hi> or to be Vile, we may ſay with <hi>David,</hi> we will be yet more Vile.</p>
+               <p>
+                  <hi>Pag.</hi> 2. He ſaith, <hi>Thou takeſt pains to prove that Men may live without Sin.</hi>
+               </p>
+               <p n="2">II. And is this a Crime to ſhew and prove from Scripture, that Men may by Chriſt, that had no Sin, be ſaved from their Sins, and by him, and through his Grace and Spirit be enabled and taught to live without Sin or a daily breaking God's Commands: in oppoſition to his Sin<g ref="char:punc">▪</g> pleaſing Doctrine, of its being <hi>impoſſible</hi> while Men are here to keep God's Com<g ref="char:EOLhyphen"/>mands.</p>
+               <p>Let all that Read this, conſider who is moſt to be blamed, I for adviſing him in my former <hi>page</hi> 5. ſeriouſly to conſider the Evil Conſequences of that Doctrine, <hi>viz.</hi> That it's <hi>impoſſible</hi> while Men are here to keep God's Commands, and for my ſhewing it was contrary to Chriſt's ſaying; and the Apoſtle, <hi>Paul</hi> and <hi>John</hi>'s Doctrine: Or he, for ſaying it's <hi>impoſſible</hi> to keep God's Commands, and that <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n may not live</hi> without Sin, as if it was contrary to the Duty they owe to God.</p>
+               <pb n="3" facs="tcp:172619:2"/>
+               <p>Surely this Man hath either forgot his Catechiſm, or doth not believe what therein is declared in Anſwer to the Que<g ref="char:EOLhyphen"/>ſtion.</p>
+            </div>
+            <div type="part">
+               <head>What is thy Duty towards God?</head>
+               <p>
+                  <q rend="margQuotes">
+                     <hi>Anſw.</hi> My Duty towards God is to believe in him, to fear him, and to love him with all my Heart, with all my Mind, with all my Soul, and with all my Strength, to Worſhip him, to give him Thanks, to put my whole Truſt in him, to call upon him, to Honour his Holy Name and his Word, and to ſerve <hi>him truly all the days of my Life.</hi>
+                  </q>
+               </p>
+               <p>Mind the Catechiſm ſaith, its Man's Duty to ſerve God <hi>truly all</hi> the days of Man's Life. But <hi>B. B.</hi> ſaith, we <hi>may not</hi> live without Sin, its <hi>impoſſible</hi> to keep God's Commands, why, becauſe we may not live without Sin, ſaith <hi>B. B?</hi> What is there a neceſſity for it then? <hi>B. B.</hi> ſaith its impoſſible, and doth not that imply a neceſſity? For of neceſſity that muſt be left undone, that its impoſſible for Man to do.</p>
+               <p>Moreover this Man anſwered none of my former Inſtances I brought for Proofs, nor brings none himſelf for what he aſſert<g ref="char:EOLhyphen"/>eth, but his <hi>Ipſe Dixit.</hi>
+               </p>
+               <p>
+                  <hi>Page</hi> 2. He ſaith, The Book of Common-Prayer doth not favour my Opinion.</p>
+               <p n="3">III. But anſwered not any thing I brought out of the Com<g ref="char:EOLhyphen"/>mon-Prayer. Doth he think becauſe he hath added Catholick after his Name, I muſt conclude he cannot Err.</p>
+               <p>If ſo, I anſwer no, no ſuch matter, for I have ſhewn his Errour, as thoſe that Read my Reply may ſee.</p>
+               <p>And for his Flout at me, ſaying, <hi>If I have no Sin to confeſs, I have the more for that.</hi>
+               </p>
+               <p>I ſhall only anſwer that I own Confeſſion of Sin, but ſhall not confeſs mine to him, whom I eſteem not ſit to be my Con<g ref="char:EOLhyphen"/>feſſor.</p>
+               <p>
+                  <q>
+                     <hi>Page</hi> 2. He ſaith, Tho' all Men are Sinners, yet good Men that confeſs and forſake their Sins, ſhall find Mercy,—and God hath made them accepted in the Beloved. This Doctrine your Friends on the other ſide the water cannot ſwallow, and though you diſown them, you have been abuſed by them. The Jeſuits brag they have been Twenty Years bringing you into Shape.</q>
+               </p>
+               <p n="4">IV. I find that we are abuſed by <hi>B. B.</hi> and if he, through his intimacy, which the Jeſuits knows we have been abuſed by
+<pb n="4" facs="tcp:172619:3"/> them, why is he ſo ready to follow their Practice, but that con<g ref="char:EOLhyphen"/>firms the Proverb like to like.</p>
+               <p>Howbeit, if thoſe he calls our Friends, (and I call his Companions, for he writes himſelf Catholick,) do not believe that all Men by Nature are Children of Wrath and Sinners; and that good Men that confeſs and forſake their Sins find Mer<g ref="char:EOLhyphen"/>cy, and through Faith and Obedience are made accepted in the Beloved.</p>
+               <p>I ſay, they that do not own this, are none of our Friends, nor of our Mind. But if <hi>B. B.</hi> ſhews or any for him, that any are in the Beloved but new Creatures, and that thoſe that are Born of God, and made new Creatures, <hi>may</hi> not live without Sin; and that its <hi>impoſſible</hi> for them to be other than Sinners all their days, and yet are accepted in Chriſt; let him if he can prove this tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and according to Holy Scrip<g ref="char:EOLhyphen"/>ture.</p>
+               <p>The next thing I take notice of, is his Reflection and falſe Affirmation, which for want of Proof, he often makes uſe of, ſhewing thereby he's wholly barren of real Proofs, un<g ref="char:EOLhyphen"/>leſs it be of his own folly, in which he abounds.—</p>
+               <p>
+                  <q>
+                     <hi>Page</hi> 2. During King <hi>James</hi>'s ſhort Reign in <hi>Ireland,</hi> though Proteſtants of all perſwaſions were miſuſed, yet the Quakers were friendly dealt with; a ſign, ſaith he, the Papiſts know you better than you know your ſelves.</q>
+               </p>
+               <p n="5">V. Poor <hi>B. B.</hi> by this appears no true Catholick, altho' he aſſumed that Name; for he is offended the Quakers ſhould be friendly dealt with, though by a <hi>Roman</hi>-Catholick which he once owned<g ref="char:punc">▪</g> head of that Church he pretends to, and defender of the Faith, which the Quakers never did; but becauſe he was not unfriendly to the Quakers, as <hi>B. B.</hi> and too many of his Bre<g ref="char:EOLhyphen"/>thren have been, he is offended, and muſt Publiſh this unto the World, as one of his craſie Concluſions, <hi>viz.</hi> That its a ſign the Papiſts know us better than we know our ſelves.</p>
+               <p>Shall I return this on <hi>B. B.</hi> and ſay, When King <hi>James</hi> came firſt to the Crown in <hi>England,</hi> he promiſed to maintain the Church of <hi>England</hi> as by Law Eſtabliſh'd. Its a ſign that the Papiſts knew the<g ref="char:punc">▪</g> Church of <hi>England</hi> better than they knew themſelves, that he made this promiſe to the Church of <hi>England</hi> only. This would not be well taken altho' I account there, is as much Reaſon for this as t'other, for we are as far from Popery as they.</p>
+               <p>
+                  <hi>B. B.</hi> Saith, We had Ordination in the Church of <hi>England</hi> before <hi>Rome</hi> departed from the Faith.</p>
+               <p n="6">
+                  <pb n="5" facs="tcp:172619:3"/>VI. And was that a Proteſtant Church of <hi>England,</hi> that you had Ordination in before <hi>Rome</hi> departed from the Faith, or a Popiſh one. Come <hi>B. B.</hi> don't Prevaricate nor Evade, let's underſtand what Church of <hi>England</hi> this was; and as to thy Queſtion, <hi>whence had we our Ordination?</hi> I anſwer, from God and Jeſus Chriſt, that only have power to make Miniſters of the Goſpel, and ordain them to that Work.</p>
+               <p>
+                  <q>
+                     <hi>Page</hi> 3. He ſaith, And do you call upon all to come off from the Teachings of Men, and to know the Teachings of God and Jeſus Chriſt, by his Grace and Spirit in their Hearts when they are without it, and therefore he is not in them.</q>
+               </p>
+               <p n="7">VII. Yea, becauſe God's Grace and Chriſt's Spirit appears and is given to all for that end; but by this arguing all are Repro<g ref="char:EOLhyphen"/>bates; but I would have him know that Chriſt is the true Light that lighteth every Man that cometh into the World, and that he ſhines by his Light, and appears by his Spirit in them, to ſhew what's Good<g ref="char:punc">▪</g> and reprove for Evil, altho' all are not in him, yet he is on this wiſe in every Man that hath not ſinned out the day of his Viſitation; otherwiſe how ſhould any know and do thoſe things that belong to their peace. So though many are out of him, and without a ſenſe of him in their Hearts, by reaſon of their Sin and Unbelief: Yet he is ſo near as at the Door, and if receiv'd by Faith will come in and bind the ſtrong Man armed, ſpoil his Goods, caſt him out, purge the Flour, and make clean the inſide that the outſide may be clean alſo.</p>
+               <p>
+                  <hi>B. B.</hi> Saith, <hi>You begrudge us a Maintenance which God and Man allows us.</hi>
+               </p>
+               <p n="8">VIII. I may ſay, <hi>Nuſquam ſine querela aegra tanguntur,</hi> Sore things are not touched without complaint. Howbeit, this I deny and charge on him as falſe.</p>
+               <p>But how agreeable a forc'd Maintenance for Chriſt's Miniſters is, to his Precept, who ſaid, <hi>Freely ye have receiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, freely give,</hi> I ſhall leave thoſe that impartially ſearch the Holy Scriptures to judge.</p>
+               <p>Alſo, how unlike it is to the practiſe of Chriſt's Primitive and preſent Miniſters, to ſue at Law, Impriſon and Seize the Goods of thoſe that do not own them to be his Miniſters, and how contrary it is to the New Teſtament; for Goſpel-Miniſters to take Tythes which are <hi>Jewiſh,</hi> let the truly wiſe Judge.</p>
+               <p>And altho' its true what <hi>B. B.</hi> ſaith, <hi>Joſeph</hi> gave the Hea<g ref="char:EOLhyphen"/>then Prieſts or Princes what <hi>Pharoh</hi> allowed them, yet, we read not that they took that allowance from any that were not of them.</p>
+               <pb n="6" facs="tcp:172619:4"/>
+               <p>And let them that own <hi>B. B</hi>'s Miniſtry give him what they will, I ſhall not bereave him of it, nor <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob his Church or Barn; and if he would let others be as quiet with what they have and labour for, and not Moleſt, Perſecute, Sue, Impriſon, nor ſeize their Goods, that for good Conſcience ſake towards God cannot pay him, it would be to his Commendation more than the contrary.</p>
+               <p>
+                  <hi>B. B.</hi> Hath one thing more to tell, and that is, that <q>the Goſpel accepts the will for the deed; and yet ſaith, that we make our humble Supplications unto God, that he would work <hi>in us</hi> both to <hi>will</hi> and to <hi>do.</hi>
+                  </q>
+               </p>
+               <p n="9">IX. Now obſerve if the Goſpel accepts the will for the deed, what need is there to make Supplication to do the deed if willing only will ſerve. We read that its ſaid, <hi>Mat. 7. 24. Whoſoever heareth theſe ſayings of mine, and doth them, I will like him to a wiſe Man that built his Houſe upon a Rock,</hi> and he ſaid to the Wo<g ref="char:EOLhyphen"/>man that ſaid, <hi>Bleſſed is the Womb that bare thee, and the Paps that gave th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uck, that they were rather bleſſed that heard the word of God and do it.</hi>
+               </p>
+               <p>So its not enough to think well, unleſs there be a doing well; and therefore its ſaid, <hi>Depart from evil and do good, and live for evermore<g ref="char:punc">▪</g>
+                  </hi> and its ſaid, <hi>Glory, Honour and Peace to every Man that worketh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ood to the Jew firſt, and alſo to the Gentiles, for not the hearers of the Law are juſt before God, but the doers of the Law ſhall be juſtified; yet its not for the doing ſake that we are juſtified, nor by works of Righteous that we have done that we are ſaved, but ac<g ref="char:EOLhyphen"/>cording to his mercy he ſaved us by the waſhing of Regeneration, and Renewing of the Holy Ghoſt, which he ſheds on us abundantly through Jeſus Chriſt our Saviour, and by that Faith which works by Love and purifies the Heart, and gives victory over the World.</hi>
+               </p>
+               <p>There is one thing more which <hi>B. B.</hi> falſly inſinuates againſt me in theſe words: <hi>Let me deſire thee to ceaſe reviling Proteſtant Miniſters, who are the Servants of the moſt High God, that ſhew unto us the way of Salvation.</hi>
+               </p>
+               <p n="10">X. I anſwer, his deſire herein is needleſs, and his inſinuation haſe; for I love and honour the Servants of the moſt High God, that ſhew unto us the way of Salvation.</p>
+               <p>Altho' I eſteem not <hi>B. B.</hi> ſuch an one, but the worſt I wiſh him is, that he was, and that he may forſake his falſe ſpeaking, and miſrepreſenting me, my Friends, and our Doctrines; and come to an amendment of his ways, and acknowledge to the truth, that it may be well with him in his latter end.</p>
+               <pb n="7" facs="tcp:172619:4"/>
+               <p>But there is ſomething farther to obſerve, that is, his Com<g ref="char:EOLhyphen"/>plaint, <hi>Page</hi> 3. where he ſaith to me, <q>Thou calleſt me Epiſco<g ref="char:EOLhyphen"/>palian Prieſt, Officious Scribler, and Prieſt <hi>Bird;</hi> by which its eaſie to know you lighted your Candle at <hi>Lucifer</hi>'s Torch, and <g ref="char:punc">▪</g>tis his Light within you boaſt of, and would Blaſphemouſly En<g ref="char:EOLhyphen"/>title Chriſt to.</q>
+               </p>
+               <p>What a Rage is this Man in! Doth not he verifie the Phraſe? <hi>Saepe ad nos ira venit, ſapius nos ad illam,</hi> Anger often cometh unto us, we oftner to it. For muſt I for calling him as the Common-Prayer calls him, be thus judged? For in the Morning-Prayer he is called—Prieſt, for the Prieſt is to ſay, <hi>Oh God make clean our Hearts within us, and take not thy Holy Spirit from us.</hi>
+               </p>
+               <p>Now if this Man did pray in Faith, and ſo experience his Heart made clean within him; ſuch foul things would not come out of him, ſuch Rage and Bitterneſs would not appear for my terming him Epiſcopalian Prieſt: I did not call him Hireling, greedy Dumb Dog, nor Turn-Coat, yet I muſt be falſly told I lighted my<g ref="char:punc">▪</g> Candle at <hi>Lucifer</hi>'s Torch, and 'tis his Light within that I boaſt of, and would Blaſphemouſly Entitle to Chriſt. What ſtrange, falſe, untrue, and unſcriptural Expreſſions are theſe? What Light within hath the Devil? But let him, and all know its Jeſus Chriſt, the Beloved Son of God, that came from the Boſom of the Father; that I do believe in who is the Light of the Word, and the true Light that lighteth every Man that cometh into the World, by whoſe Light we have come to ſee our own States, and alſo therein to ſee how directly contrary the Works and Fruits (of too many profeſſing to be his Mini<g ref="char:EOLhyphen"/>ſters) are, to thoſe that were, and are really his; which freely give what they receive, and ſeek not People's goods, but their eternal good, and to gather them not to themſelves, but to Chriſt; and to know his Teachings by that Grace that came by him, and not to ſet themſelves nor one another as Teachers over them, to make a Gain and Profit of them, nor to cauſe them to ſpend their Money for that which is not Bread, and their Labour, for that which ſatisfieth not, but direct them to hear the voice of Chriſt, that their Souls might live, and they become the Sheep of Chriſt's Paſtor, and experience the Liv<g ref="char:EOLhyphen"/>ing God to be their Shepherd, that they might want no good thing.</p>
+               <p>And as to my terming <hi>B. B.</hi> Officious Scribler, I have ſhewn in my former, and may now a little, that he appears ſo by inter<g ref="char:EOLhyphen"/>poſing officiouſly in a Controverſie between <hi>Joſeph Nott</hi> call'd a
+<pb n="8" facs="tcp:172619:5"/> Quaker; and the Presbyterians in his writing a Book relating thereto, and Dedicating it to his worthy Friend <hi>William Clap;</hi> who, or ſome other, clapt a Title Page to it, without <hi>B. B</hi>'s privity, as he now ſaith, <hi>Page</hi> 1. <q>What I did was in a private Letter to a Friend, ſaith <hi>B. B.</hi> upon whoſe Requeſt it was Printed without my privity, and the Title Page is not mine; and <hi>B. Bird</hi> is meerly drawn in to bring up the Rear, <hi>Page</hi> 2.</q>
+               </p>
+               <p>Poor <hi>B. B.</hi> I may ſay to thee,</p>
+               <q>
+                  <l>
+                     <hi>Invalidum omne, natura querulum eſt,</hi>
+                  </l>
+                  <l>All weak things are full of Complaint.</l>
+               </q>
+               <p>However thou may'ſt the better make thy retreat, and learn to be wiſer the next time, than meddle with that which don't belong to thee; and do not truſt any Body with thy Scrible, leſt it ſhould be Printed again, and thy Folly and Ignorance expoſed without thy privity: But remember that a Fool, when he holdeth his peace is counted Wiſe: And he that ſhutteth his Lips is eſteemed a Man of Underſtanding, <hi>Prov.</hi> 17. 28. And only by Pride cometh Contention, but with the well adviſed is Wiſdom, the which by the fear of the Lord, and departing from Iniquity, thou may'ſt come to have, is the deſire of him,</p>
+               <closer>
+                  <signed>That wiſheth, and prayeth for the good of all Men. I. Feild.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
